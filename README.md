@@ -15,7 +15,7 @@
 
 ## Technology Stack
 - PHP 7.4 or higher
-- CSS
+- HTML, CSS
 - Bootstrap
 - JavaScript , Ajax
 - MySQL
