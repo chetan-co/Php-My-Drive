@@ -13,6 +13,12 @@
 - PHP 7.4 or higher
 - A local server environment (e.g., [XAMPP](https://www.apachefriends.org/index.html), [WAMP](http://www.wampserver.com/), or [MAMP](https://www.mamp.info/))
 
+##Technology Stack
+- PHP 7.4 or higher
+- CSS
+- Bootstrap
+- JavaScript
+
 ## Installation
 1. Clone the repository:
    ```bash
