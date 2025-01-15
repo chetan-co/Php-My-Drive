@@ -16,5 +16,5 @@
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/My-Drive.git
+   git clone https://github.com/chetan-co/My-Drive.git
 
