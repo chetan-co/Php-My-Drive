@@ -17,7 +17,8 @@
 - PHP 7.4 or higher
 - CSS
 - Bootstrap
-- JavaScript
+- JavaScript , Ajax
+- MySQL
 
 ## Installation
 1. Clone the repository:
